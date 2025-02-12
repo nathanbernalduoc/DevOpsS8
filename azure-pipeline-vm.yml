@@ -8,7 +8,7 @@ variables:
   # parámetros de recursos creados, service connectuin y gripo de recursos
   azureSubscription: 's8-service-connection-g1' # Este es un nombre que debe cambiar al que crearon.
   location: 'eastus2'
-  resourceGroupName: 's8-grupo1_2' # Este es un nombre que debe cambiar al que crearon.
+  resourceGroupName: 's8-grupo1' # Este es un nombre que debe cambiar al que crearon.
   # propiedades a ser utilizadas para la creación de la VM
   virtualNetworkName: 'VNet-Curso_DevOps'
   subnetName: 'Subnet-Curso_DevOps'
