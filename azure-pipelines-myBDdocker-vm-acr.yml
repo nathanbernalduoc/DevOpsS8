@@ -5,8 +5,8 @@ trigger:
 
 variables:
   VM_IP_PUBLICA: '104.209.141.96'  # Se debe colocar la IP pública de tu máquina virtual
-  IMAGE_NAME: 'myBDMySql'  # Se debe colocar el Nombre de la imagen que será descargada desde ACR
-  ACR_NAME: 'myBDMySql'  # Se debe colocar el Nombre de tu Azure Container Registry (ACR)
+  IMAGE_NAME: 'mybdmysql'  # Se debe colocar el Nombre de la imagen que será descargada desde ACR
+  ACR_NAME: 'mybdmysql'  # Se debe colocar el Nombre de tu Azure Container Registry (ACR)
   ACR_USERNAME: 'myBDMySql'  # Se debe colocar el Nombre de usuario del ACR
   ACR_PASSWORD: 'fQMk3v7LkRcPibqSH3B3O0EqQndi1rk51LniahENc3+ACRBXdi61'  # Se debe colocar la Contraseña del ACR
 
